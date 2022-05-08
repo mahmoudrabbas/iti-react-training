@@ -1,4 +1,4 @@
-// this is a simple react app does some of the CRUD operations 
+// this is a simple react app doing some of the CRUD operations 
 
 - adds a new product
 - removes a product
