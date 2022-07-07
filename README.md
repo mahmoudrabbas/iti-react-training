@@ -17,7 +17,7 @@ $ npm start
 
 ===================
 
-// creating an online fake server with json-server to do the CRUD operations on the dummy data 
+// creating an online fake server with json-server to do the CRUD operations on dummy data 
 
 $ npx json-server --watch db.json
 
